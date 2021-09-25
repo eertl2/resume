@@ -1,2 +1,1 @@
-# resume
-My resume
+https://ericertl.dev/resume/ericertl.pdf
