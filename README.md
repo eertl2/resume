@@ -1,1 +1,1 @@
-https://ericertl.dev/resume/ericertl.pdf
+https://ericertl.dev/resume/Eric_Ertl_Resume.pdf
